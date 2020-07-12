@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hey there 👋
+- 🔭 I’m currently working on the [Developer API](https://developer.twitter.com/en) at Twitter 🐦 as a SWE intern
+- 🌱 I’m currently learning about Scala, GraphQL and Strato
+- 📫 How to reach me: Email me at rayliutech@gmail.com and follow me [@_RayLiu](https://twitter.com/_RayLiu) on Twitter
 <!--
 **CheRayLiu/CheRayLiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
