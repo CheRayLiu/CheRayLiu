@@ -1,5 +1,4 @@
 ### Hey there 👋
-- 🔭 I’m currently working on the [Developer Platform](https://developer.twitter.com/en) at Twitter 🐦
 - 📫 How to reach me: Email me at rayliutech@gmail.com and follow me [@_RayLiu](https://twitter.com/_RayLiu) on Twitter
 <!--
 **CheRayLiu/CheRayLiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
